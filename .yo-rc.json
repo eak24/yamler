@@ -1,0 +1,10 @@
+{
+  "generator-python-lib": {
+    "projectName": "yamler",
+    "fullName": "Ethan Keller",
+    "email": "ethan.keller@gmail.com",
+    "githubName": "ethan92429",
+    "ciProvider": "Travis CI",
+    "version": "4.0.25"
+  }
+}
